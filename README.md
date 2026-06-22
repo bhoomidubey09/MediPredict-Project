@@ -99,6 +99,24 @@ The application uses SQLite database.
 | disease  | TEXT      |
 | date     | TIMESTAMP |
 
+## Screenshots
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Enter Symptoms
+
+![Symptoms](screenshots/symptoms.png)
+
+### Disease Prediction
+
+![Prediction](screenshots/prediction.png)
+
+### History Page
+
+![History](screenshots/history.png)
+
 ## Disclaimer
 
 This project is intended for educational and research purposes only.
