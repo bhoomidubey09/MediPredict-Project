@@ -2,6 +2,12 @@
 
 AI-powered disease prediction system that analyzes user symptoms and provides possible diseases, severity level, and recommendations.
 
+## Live Demo
+
+🚀 Try the deployed app here:
+
+https://medipredict-ai.streamlit.app/
+
 ## Features
 
 * User Registration and Login
