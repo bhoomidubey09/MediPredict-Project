@@ -1,0 +1,41 @@
+Disease Name: Fungal infection and symptoms are skin rash,dischromic  patches,itching,nodal skin eruptions
+Disease Name: Allergy and symptoms are watering from eyes,chills,continuous sneezing,shivering
+Disease Name: GERD and symptoms are cough,acidity,vomiting,chest pain,stomach pain,ulcers on tongue
+Disease Name: Chronic cholestasis and symptoms are loss of appetite,yellowish skin,vomiting,nausea,yellowing of eyes,itching,abdominal pain
+Disease Name: Drug Reaction and symptoms are skin rash,spotting  urination,burning micturition,stomach pain,itching
+Disease Name: Peptic ulcer diseae and symptoms are internal itching,loss of appetite,indigestion,vomiting,passage of gases,abdominal pain
+Disease Name: AIDS and symptoms are high fever,muscle wasting,patches in throat,extra marital contacts
+Disease Name: Diabetes  and symptoms are increased appetite,fatigue,restlessness,lethargy,obesity,excessive hunger,polyuria,irregular sugar level,blurred and distorted vision,weight loss
+Disease Name: Gastroenteritis and symptoms are diarrhoea,sunken eyes,dehydration,vomiting
+Disease Name: Bronchial Asthma and symptoms are high fever,cough,breathlessness,mucoid sputum,fatigue,family history
+Disease Name: Hypertension  and symptoms are headache,loss of balance,dizziness,chest pain,lack of concentration
+Disease Name: Migraine and symptoms are headache,acidity,visual disturbances,excessive hunger,stiff neck,indigestion,blurred and distorted vision,irritability,depression
+Disease Name: Cervical spondylosis and symptoms are loss of balance,back pain,dizziness,weakness in limbs,neck pain
+Disease Name: Paralysis (brain hemorrhage) and symptoms are headache,altered sensorium,weakness of one body side,vomiting
+Disease Name: Jaundice and symptoms are abdominal pain,high fever,yellowish skin,vomiting,fatigue,itching,weight loss,dark urine
+Disease Name: Malaria and symptoms are headache,high fever,chills,vomiting,muscle pain,nausea,sweating,diarrhoea
+Disease Name: Chicken pox and symptoms are skin rash,headache,mild fever,malaise,high fever,loss of appetite,lethargy,swelled lymph nodes,red spots over body,itching,fatigue
+Disease Name: Dengue and symptoms are skin rash,headache,back pain,malaise,high fever,chills,loss of appetite,joint pain,vomiting,muscle pain,nausea,red spots over body,fatigue,pain behind the eyes
+Disease Name: Typhoid and symptoms are headache,abdominal pain,high fever,chills,vomiting,toxic look (typhos),nausea,belly pain,constipation,fatigue,diarrhoea
+Disease Name: hepatitis A and symptoms are abdominal pain,mild fever,loss of appetite,yellowish skin,vomiting,muscle pain,nausea,diarrhoea,yellowing of eyes,joint pain,dark urine
+Disease Name: Hepatitis B and symptoms are abdominal pain,receiving unsterile injections,malaise,loss of appetite,yellowish skin,yellow urine,lethargy,receiving blood transfusion,yellowing of eyes,itching,fatigue,dark urine
+Disease Name: Hepatitis C and symptoms are loss of appetite,yellowish skin,yellowing of eyes,nausea,fatigue,family history
+Disease Name: Hepatitis D and symptoms are abdominal pain,loss of appetite,yellowish skin,joint pain,vomiting,nausea,yellowing of eyes,fatigue,dark urine
+Disease Name: Hepatitis E and symptoms are abdominal pain,coma,high fever,loss of appetite,yellowish skin,joint pain,vomiting,acute liver failure,nausea,yellowing of eyes,stomach bleeding,fatigue,dark urine
+Disease Name: Alcoholic hepatitis and symptoms are history of alcohol consumption,abdominal pain,distention of abdomen,yellowish skin,vomiting,fluid overload,swelling of stomach
+Disease Name: Tuberculosis and symptoms are phlegm,mild fever,malaise,cough,high fever,chills,breathlessness,loss of appetite,yellowing of eyes,vomiting,chest pain,swelled lymph nodes,fatigue,sweating,weight loss,blood in sputum
+Disease Name: Common Cold and symptoms are headache,phlegm,congestion,malaise,high fever,cough,chills,throat irritation,redness of eyes,runny nose,chest pain,loss of smell,muscle pain,continuous sneezing,swelled lymph nodes,sinus pressure,fatigue
+Disease Name: Pneumonia and symptoms are phlegm,malaise,high fever,cough,breathlessness,chills,rusty sputum,chest pain,fast heart rate,sweating,fatigue
+Disease Name: Dimorphic hemmorhoids(piles) and symptoms are pain during bowel movements,bloody stool,irritation in anus,pain in anal region,constipation
+Disease Name: Heart attack and symptoms are breathlessness,sweating,chest pain,vomiting
+Disease Name: Varicose veins and symptoms are cramps,bruising,swollen blood vessels,swollen legs,obesity,fatigue,prominent veins on calf
+Disease Name: Hypothyroidism and symptoms are weight gain,mood swings,dizziness,abnormal menstruation,swollen extremeties,lethargy,depression,puffy face and eyes,enlarged thyroid,brittle nails,cold hands and feets,irritability,fatigue
+Disease Name: Hyperthyroidism and symptoms are mood swings,abnormal menstruation,restlessness,muscle weakness,excessive hunger,fast heart rate,fatigue,sweating,irritability,weight loss,diarrhoea
+Disease Name: Hypoglycemia and symptoms are headache,anxiety,palpitations,slurred speech,drying and tingling lips,vomiting,nausea,excessive hunger,irritability,sweating,blurred and distorted vision,fatigue
+Disease Name: Osteoarthristis and symptoms are knee pain,painful walking,neck pain,hip joint pain,joint pain,swelling joints
+Disease Name: Arthritis and symptoms are movement stiffness,muscle weakness,painful walking,stiff neck,swelling joints
+Disease Name: (vertigo) Paroymsal  Positional Vertigo and symptoms are headache,loss of balance,unsteadiness,vomiting,nausea,spinning movements
+Disease Name: Acne and symptoms are skin rash,blackheads,scurring,pus filled pimples
+Disease Name: Urinary tract infection and symptoms are burning micturition,foul smell of urine,bladder discomfort,continuous feel of urine
+Disease Name: Psoriasis and symptoms are skin rash,skin peeling,small dents in nails,silver like dusting,inflammatory nails,joint pain
+Disease Name: Impetigo and symptoms are skin rash,high fever,blister,yellow crust ooze,red sore around nose
