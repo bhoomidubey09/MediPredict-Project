@@ -9,9 +9,13 @@ __pycache__/
 # Environment variables
 .env
 
+# Database files
+users.db
+*.db
+
 # OS files
 .DS_Store
 Thumbs.db
 
 # VS Code settings
-.vscode/users.db
+.vscode/
