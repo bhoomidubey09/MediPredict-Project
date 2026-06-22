@@ -18,11 +18,7 @@ system_message = None
 def initialize_groq_system():
     global system_message
     print("📚 Loading datasets...")
-    # Load symptom-disease dataset
-    # with open("models/disease_data.txt",'r') as file:
-    #     symptoms_data = file.read()
-    # with open("models/severity_data.txt",'r') as file:
-    #     severity_data = file.read()
+   
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
     disease_file = os.path.join(BASE_DIR, "models", "disease_data.txt")

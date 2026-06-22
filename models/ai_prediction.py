@@ -7,10 +7,8 @@ load_dotenv()
 system_message = ""
 
 def groq_initialize():
-    # with open("MediPredict-Project/models/disease_text.txt",'r') as file:
     with open("models/disease_text.txt", "r") as file:
         symptoms_data = file.read()
-    # with open("MediPredict-Project/models/severity_data.txt",'r') as file:
     with open("models/severity_data.txt", "r") as file:
         severity_data = file.read()
     global system_message
@@ -100,5 +98,5 @@ def predict_disease(user_symptoms):
 
 
 groq_initialize()
-# predict_disease("I have pain in chest")
+
 
